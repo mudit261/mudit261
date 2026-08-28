@@ -34,11 +34,7 @@
 
 ### 📊 GitHub Stats
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=mudit261&show_icons=true&theme=default" alt="mudit261's GitHub stats" height="165"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mudit261" alt="mudit261's streak stats" height="165"/>
-</p>
-
+<p align="left"> <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=mudit261&show_icons=true&theme=default" alt="mudit261's GitHub stats" height="165"/> <img src="https://streak-stats.demolab.com/?user=mudit261" alt="mudit261's streak stats" height="165"/> </p>
 ---
 
 ### 🤝 Connect with Me
